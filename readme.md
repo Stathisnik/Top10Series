@@ -1,1 +1,1 @@
-This is an Angularjs service!!!!!
+This is an Angularjs service
